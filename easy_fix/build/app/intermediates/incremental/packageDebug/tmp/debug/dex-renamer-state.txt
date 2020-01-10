@@ -1,0 +1,10 @@
+#Fri Jan 10 11:40:55 IST 2020
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/bhanuka/Documents/Easy_fix-master/easy_fix/build/app/intermediates/transforms/dexMerger/debug/0
+base.1=/home/bhanuka/Documents/Easy_fix-master/easy_fix/build/app/intermediates/transforms/dexMerger/debug/0
+base.0=/home/bhanuka/Documents/Easy_fix-master/easy_fix/build/app/intermediates/transforms/dexMerger/debug/0
